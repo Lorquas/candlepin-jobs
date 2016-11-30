@@ -13,7 +13,9 @@
       - htmlpublisher
       - ircbot
       - job-dsl
+      - parameterized-trigger
       - uno-choice
+      - workflow-aggregator
       - ws-cleanup
     CANDLEPIN_JENKINS_GITHUB_ORG: candlepin
 
